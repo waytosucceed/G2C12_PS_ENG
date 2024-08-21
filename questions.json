@@ -1,0 +1,259 @@
+{
+  "heading": "Questions and Answers",
+  "topics": [
+    {
+      "heading": "Words with f, ff, ph",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Pick the odd one out:",
+          "options": [
+            "fluff",
+            "stuff",
+            "puff",
+            "roof"
+          ],
+          "answer": 3,
+          "explanation": "\"Roof\" ends with one \"f\", while the others end with \"ff\"."
+        },
+        {
+          "questionNo": 2,
+          "question": "What's the first sound in \"phone\"?",
+          "options": [
+            "' p '",
+            "' h '",
+            "' f '",
+            "' o '"
+          ],
+          "answer": 2,
+          "explanation": "Even though it starts with \"ph\", \"phone\" begins with the \"f\" sound."
+        },
+        {
+          "questionNo": 3,
+          "question": "Which word has the most \"f\" sounds?",
+          "options": [
+            "frog",
+            "fluff",
+            "elephant",
+            "photo"
+          ],
+          "answer": 1,
+          "explanation": "\"Fluff\" has two \"f\" sounds, at the beginning and end."
+        },
+        {
+          "questionNo": 4,
+          "question": "Which word starts and ends with the \"f\" sound?",
+          "options": [
+            "frog",
+            "fluff",
+            "photo",
+            "off"
+          ],
+          "answer": 1,
+          "explanation": "\"Fluff\" starts with \"f\" and ends with \"ff\", both making the \"f\" sound."
+        },
+        {
+          "questionNo": 5,
+          "question": "In \"buffalo\", where do you hear the \"f\" sound?",
+          "questionSound": "./assests/sounds/buffalo.mp3",
+          "options": [
+            "Beginning",
+            "Middle",
+            "End",
+            "Nowhere"
+          ],
+          "answer": 1,
+          "explanation": "The \"f\" sound in \"buffalo\" is in the middle of the word."
+        },
+        {
+          "questionNo": 6,
+          "question": "Which word has a different \"f\" sound spelling?",
+          "options": [
+            "fish",
+            "fluff",
+            "frog",
+            "phone"
+          ],
+          "answer": 3,
+          "explanation": "\"Phone\" uses \"ph\" to make the \"f\" sound, while others use \"f\"."
+        },
+        {
+          "questionNo": 7,
+          "question": "What's the last letter in \"cliff\"?",
+          "options": [
+            "c",
+            "l",
+            "i",
+            "f"
+          ],
+          "answer": 3,
+          "explanation": "\"Cliff\" ends with \"ff\", and \"f\" is the last letter."
+        },
+        {
+          "questionNo": 8,
+          "question": "How many sounds are in \"ph\"?",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer": 0,
+          "explanation": "Although \"ph\" has two letters, it makes one \"f\" sound."
+        },
+        {
+          "questionNo": 9,
+          "question": "Which word doesn't have the \"f\" sound?",
+          "options": [
+            "photo",
+            "flower",
+            "flow",
+            "though"
+          ],
+          "answer": 3,
+          "explanation": "\"Though\" doesn't have the \"f\" sound, while the others do."
+        },
+        {
+          "questionNo": 10,
+          "question": "Hear the word and choose the correct spelling: ",
+          "questionSound": "./assests/sounds/feel.mp3",
+          "options": [
+            "File",
+            "Feel",
+            "Flee",
+            "Fee"
+          ],
+          "answer": 1,
+          "explanation": "The word “feel” is spelt as F-E-E-L. It means an act of touching something."
+        },
+        {
+          "questionNo": 11,
+          "question": "Which word has the \"ph\" sound?",
+          "options": [
+            "./assests/sounds/fish.mp3",
+            "./assests/sounds/photo.mp3",
+            "./assests/sounds/frog.mp3",
+            "./assests/sounds/fun.mp3"
+          ],
+          "questionSound": "./assests/sounds/f-sound.mp3",
+          "answer": 1,
+          "explanation": "\"Photo\" uses \"ph\" to make the \"f\" sound."
+        },
+        {
+          "questionNo": 12,
+          "question": "How many \"f\" sounds are in \"giraffe\"?",
+          "options": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "answer": 1,
+          "explanation": "\"Giraffe\" has one \"f\" sound at the end."
+        },
+        {
+          "questionNo": 13,
+          "question": "Which word ends with \"ff\"?",
+          "options": [
+            "./assests/sounds/leaf.mp3",
+            "./assests/sounds/puff.mp3",
+            "./assests/sounds/phone.mp3",
+            "./assests/sounds/frog.mp3"
+          ],
+          "questionSound": "./assests/sounds/f-sound.mp3",
+          "answer": 1,
+          "explanation": "\"Puff\" ends with the double \"ff\" sound."
+        },
+        {
+          "questionNo": 14,
+          "question": "What's the first sound in \"photograph\"?",
+          "options": [
+            "./assests/sounds/p-sound.mp3",
+            "./assests/sounds/t-sound.mp3",
+            "./assests/sounds/f-sound.mp3",
+            "./assests/sounds/o-sound.mp3",
+            "t",
+            "f",
+            "o"
+          ],
+          "answer": 2,
+          "explanation": "\"Photograph\" starts with \"ph\", which makes the \"f\" sound."
+        },
+        {
+          "questionNo": 15,
+          "question": "What makes the \"f\" sound in \"Physical\"?",
+          "options": [
+            "hy",
+            "ca",
+            "ph",
+            "si"
+          ],
+          "answer": 2,
+          "explanation": "In \"physical\", \"ph\" makes the \"f\" sound. Like /fee/ in the starting."
+        },
+        {
+          "questionNo": 16,
+          "question": "Pick the odd one out:",
+          "options": [
+            "photo",
+            "phone",
+            "fish",
+            "phantom"
+          ],
+          "answer": 2,
+          "explanation": "\"Fish\" starts with the letter \"f\". Every other word starts with \"Ph\"."
+        },
+        {
+          "questionNo": 17,
+          "question": "How many \"f\" sounds are in \"fluff\"?",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer": 1,
+          "explanation": "\"Fluff\" has two \"f\" sounds, at the beginning and end."
+        },
+        {
+          "questionNo": 18,
+          "question": "Which word has a different spelling for the \"f\" sound?",
+          "options": [
+            "frog",
+            "fluff",
+            "laugh",
+            "off"
+          ],
+          "answer": 2,
+          "explanation": "In \"laugh\", \"gh\" makes the \"f\" sound and there is no “f” in this word."
+        },
+        {
+          "questionNo": 19,
+          "question": "Hear the word and choose the correct spelling:",
+          "image": "./assests/images/dolphin.png",
+          "questionSound": "./assests/sounds/dolphin.mp3",
+          "options": [
+            "Dolfin",
+            "Dolpine",
+            "Dolfine",
+            "Dolphin"
+          ],
+          "answer": 3,
+          "explanation": "The word “dolphin” is spelt as D-O-L-P-H-I-N. It is an animal that lives in water."
+        },
+        {
+          "questionNo": 20,
+          "question": "How many \"f\" sounds are in \"flip-flop\"?",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "answer": 1,
+          "explanation": "\"Flip-flop\" has two \"f\" sounds, one in each part of the word."
+        }
+      ]
+    }
+  ]
+}
